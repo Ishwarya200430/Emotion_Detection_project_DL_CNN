@@ -85,7 +85,7 @@ model = Sequential([
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/Face-Emotion-Detection.git
+https://github.com/Ishwarya200430/Emotion_Detection_project_DL_CNN.git
 ```
 
 Install required libraries:
@@ -136,6 +136,7 @@ Confidence: 55.26%
 ## 📷 Example Output
 
 The system draws a bounding box around the detected face and displays the predicted emotion.
+It also performs on live face as you can test on your face by clicking capture it take photo of your face,then it will show the emotion on your face by creating bounding box on your face.
 
 Example:
 
@@ -179,6 +180,7 @@ Through this project you will learn:
 
 ## 👩‍💻 Author
 
-**Ishwarya K**
+**Ishwarya Kunduru**
+Email:kunduruishwarya03@gmail.com
 
 Deep Learning & Computer Vision Project
